@@ -1,0 +1,791 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"match",
+				"match_fileext	function"
+			],
+			[
+				"file",
+				"filename	param"
+			],
+			[
+				"spli",
+				"splitext	function"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"ba",
+				"basicConfig	function"
+			],
+			[
+				"export",
+				"export_filename"
+			],
+			[
+				"targe",
+				"target_file"
+			],
+			[
+				"csv",
+				"export_csv_obj"
+			],
+			[
+				"outp",
+				"output_preset"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "exam.ini",
+			"settings":
+			{
+				"buffer_size": 290,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ope",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"op",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"fi",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"file",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"format",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"RE py",
+				"SublimeREPL: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ana",
+				"Anaconda: Next lint error"
+			],
+			[
+				"anax",
+				"Anaconda: Next lint error"
+			],
+			[
+				"virtu",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"virtual",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"snippet",
+				"Snippet: Comment"
+			],
+			[
+				"Snippet: ",
+				"Snippet: CDATA"
+			],
+			[
+				"py3",
+				"Snippet: py3k_compatible : Let's Python coding"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"SublimeREPL: Python"
+			],
+			[
+				"open",
+				"Sublime Files: Open Navigator"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"json",
+				"Indent JSON"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"wr",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"war",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"emme",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"em",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"sy",
+				"Set Syntax: Python"
+			],
+			[
+				"syn",
+				"Set Syntax: Python"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"syn py",
+				"Set Syntax: Python"
+			],
+			[
+				"MARKDO",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"set synta",
+				"Set Syntax: HTML"
+			],
+			[
+				"insa",
+				"Tag: Insert as Tag"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hiroshi/devel/exams/shizuokapy-no4_presentation"
+	],
+	"file_history":
+	[
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-83-9e-e3-82-ad-e3-82-bf-e6-8e-83-e9-99-a4-e6-a9-9f-cl102dw--e8-b3-bc-e5-85-a5-e3-83-ac-e3-83-93-e3-83-a5-e3-83-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e6-bf-80-e5-ae-89-e3-82-b5-e3-83-bc-e3-83-90-e3-83-bc-hp-proliant-ml110-g7-e3-82-92-e6-b3-a8-e6-96-87-e3-81-97-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-83-a6-e3-83-8b-e3-82-af-e3-83-ad--e3-83-aa-e3-83-83-e3-83-97-e3-82-b9-e3-83-88-e3-83-83-e3-83-97-e3-83-a1-e3-83-83-e3-82-bb-e3-83-b3-e3-82-b8-e3-83-a3-e3-83-bc-e3-83-90-e3-83-83-e3-82-b0-e3-81-ae.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-83-a9-e3-83-88-e3-83-83-e3-82-af-e3-82-b7-e3-82-b9-e3-83-86-e3-83-a0-rs-ec32-u3r--e3-82-92-e8-b3-bc-e5-85-a5-ubuntu-12-04-e3-81-a7-e5-88-a9-e7-94-a8-e4-b8-ad.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-83-ac-e3-82-a4-e3-82-a2-e3-82-a6-e3-83-88-xperia-z1-f--e3-82-ac-e3-83-a9-e3-82-b9-e3-83-95-e3-82-a3-e3-83-ab-e3-83-a0--e3-82-92-e8-b3-bc-e5-85-a5-e3-81-97-e3-81-a6-e3-81-bf-e3-81-be-e3-81-97.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e5-86-8d-e9-96-8b-e3-81-97-e3-81-be-e3-81-99.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e6-9d-b1-e6-b5-b7-e5-a4-a7-e5-ad-a6ctf-e5-a4-a7-e4-bc-9a-e3-81-ab-e5-8f-82-e5-8a-a0-e3-81-97-e3-81-a6-e3-81-8d-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e6-bf-80-e5-ae-89-e3-82-b5-e3-83-bc-e3-83-90-e3-83-bc-e3-81-ab-e6-97-a7-e3-82-b5-e3-83-bc-e3-83-90-e3-83-bc-e3-81-ae-e3-82-b7-e3-82-b9-e3-83-86-e3-83-a0-e5-85-a5-e3-82-8c-e6-9b-bf-e3-81-88-e3-82-92.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-83-89-e3-83-83-e3-83-88-e3-82-a4-e3-83-b3-e3-82-b9-e3-83-88-e3-83-bc-e3-83-ab-e3-81-ae-e3-80-8ctitanium-mobile-e3-81-ae-e5-9f-ba-e7-a4-8e-e3-80-8d-e3-82-92android-e3-81-a7-e5-86-99-e7-b5-8c.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-83-80-e3-83-b3-e3-83-9c-e3-83-bc-e3-83-90-e3-83-83-e3-83-86-e3-83-aa-e3-83-bc-e4-bd-bf-e3-81-a3-e3-81-a6-e3-81-be-e3-81-99.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-82-bd-e3-83-8b-e3-83-bc-e3-81-ae-e3-83-87-e3-82-b8-e3-82-ab-e3-83-a1-e3-80-81dsc-hx60v-e3-82-92-e8-b3-bc-e5-85-a5-e3-81-97-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-82-a2-e3-83-bc-e3-82-ad-e3-82-b5-e3-82-a4-e3-83-88-e3-80-80-e3-83-86-e3-83-b3-e3-82-ad-e3-83-bc-e3-83-ac-e3-82-b9-e3-82-ad-e3-83-bc-e3-83-9c-e3-83-bc-e3-83-89-e3-80-80-e8-b5-a4-e8-bb-b8-e3-80-80.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-82-a8-e3-83-ac-e3-82-b3-e3-83-a0-e3-81-aeusb3-0-e3-81-aesd-e3-82-ab-e3-83-bc-e3-83-89-e3-83-aa-e3-83-bc-e3-83-80-e3-83-bc-e3-82-92-e8-b2-b7-e3-81-84-e3-81-be-e3-81-97-e3-81-9f-mr3-c004--e3-83-ac.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-82-b5-e3-82-a4-e3-82-af-e3-83-ab-e3-82-b0-e3-83-ad-e3-83-bc-e3-83-96-e3-82-92-e8-b2-b7-e3-81-a3-e3-81-a6-e3-81-bf-e3-81-be-e3-81-97-e3-81-9f--e3-83-aa-e3-83-b3-e3-83-97-e3-83-ad-e3-82-b8-e3-82-a7.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-82-b5-e3-83-b3-e3-82-b3-e3-83-bc-e3-81-ae-e3-83-8e-e3-83-bc-e3-83-88pc-e3-82-b9-e3-82-bf-e3-83-b3-e3-83-89-e3-82-a2-e3-83-bc-e3-83-a0-e3-82-92-e8-b2-b7-e3-81-84-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-82-b9-e3-82-b3-e3-83-83-e3-83-81-e3-83-96-e3-83-a9-e3-82-a4-e3-83-88--e3-83-90-e3-82-b9-e3-82-b7-e3-83-a3-e3-82-a4-e3-83-b3--e3-83-8f-e3-83-b3-e3-83-87-e3-82-a3-e3-82-b9-e3-83-9d-e3-83-b3-e3-82-b8.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-82-b9-e3-83-9e-e3-83-bc-e3-83-88-e3-83-81-e3-83-83-e3-83-97--e3-83-95-e3-83-aa-e3-82-af-e3-82-b7-e3-83-a7-e3-83-b3-e3-83-9c-e3-83-bc-e3-83-ab-e3-83-9a-e3-83-b3-e3-81-ae-e3-82-b3-e3-83-a9.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-82-bf-e3-82-a4-e3-82-ac-e3-83-bc--e3-82-ab-e3-83-95-e3-82-a7-e3-83-90-e3-83-aa-e3-82-a8-e3-82-92-e3-81-97-e3-81-b0-e3-82-89-e3-81-8f-e4-bd-bf-e3-81-a3-e3-81-a6-e3-81-bf-e3-81-a6-e3-81-ae-e6-84-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-83-80-e3-82-a4-e3-82-ad-e3-83-b3-e3-81-ae-e5-8a-a0-e6-b9-bf-e7-a9-ba-e6-b0-97-e6-b8-85-e6-b5-84-e6-a9-9f-e3-82-92-e8-b3-bc-e5-85-a5-e3-81-97-e3-81-a6-e3-81-bf-e3-81-be-e3-81-97-e3-81-9f-e3-80-8c.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-83-8d-e3-82-b9-e3-82-ab-e3-83-95-e3-82-a7-e3-83-89-e3-83-ab-e3-83-81-e3-82-a7-e3-82-b0-e3-82-b9-e3-83-88-e3-82-92-e4-bd-bf-e3-81-a3-e3-81-a6-e8-a6-8b-e3-81-a6-e3-81-be-e3-81-99.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-83-9c-e3-83-b3-e3-83-89-e3-82-b9-e3-83-88-e3-83-bc-e3-83-a0-e3-82-ac-e3-83-bc-e3-83-89-e3-82-92-e4-bd-bf-e3-81-a3-e3-81-a6-e6-b4-97-e6-bf-af-e6-a9-9f-e3-82-92-e8-a3-9c-e4-bf-ae-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-83-af-e3-82-a4-e3-83-a4-e3-83-ac-e3-82-b9-e3-83-86-e3-83-ac-e3-83-93-e3-83-89-e3-82-a2-e3-83-9b-e3-83-b3-elpa-wdp-100--e3-82-92-e8-b2-b7-e3-81-a3-e3-81-a6-e3-81-bf-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e5-8d-93-e4-b8-8a-e4-b8-89-e8-84-9a-e3-82-92-e8-b2-b7-e3-81-a3-e3-81-a6-e3-81-bf-e3-81-be-e3-81-97-e3-81-9f-e3-80-82-e3-80-8cslik--e4-b8-89-e8-84-9a-s-e3-83-9d-e3-83-83-e3-83-89-sj-32-sl-e3-80-8d.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e6-a2-85-e9-9b-a8-e6-99-82-e3-81-ae-e8-87-aa-e8-bb-a2-e8-bb-8a-e9-80-9a-e5-8b-a4-e7-94-a8-e3-81-ab-e3-83-ac-e3-82-a4-e3-83-b3-e3-82-a6-e3-82-a7-e3-82-a2-e3-82-92-e8-b2-b7-e3-81-a3-e3-81-9f-e3-81-ae.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e8-8a-9d-e7-94-9f-e3-82-92-e5-89-a5-e3-81-8c-e3-81-97-e3-81-9f-e8-a8-98-e9-8c-b2.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e8-a8-b3-e3-81-82-e3-82-8a-e3-81-ae-e3-82-af-e3-83-bc-e3-83-99-e3-83-ab-e3-83-81-e3-83-a5-e3-83-bc-e3-83-ab-e3-83-81-e3-83-a7-e3-82-b3-e3-82-92-e8-b2-b7-e3-81-a3-e3-81-a6-e3-81-bf-e3-81-be-e3-81-97.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/1142.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/dell-u2412m-e3-82-92-e3-81-a1-e3-82-83-e3-81-a3-e3-81-8b-e3-82-8a-e8-b2-b7-e3-81-a3-e3-81-a6-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/elecom-logitec-lan-gtju3h3-e3-81-ae-e3-83-ac-e3-83-93-e3-83-a5-e3-83-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/intel-data-migration-software-e3-82-92-e5-88-a9-e7-94-a8-e3-81-97-e3-81-9f-e3-82-b7-e3-82-b9-e3-83-86-e3-83-a0-e3-83-87-e3-82-a3-e3-82-b9-e3-82-af-e3-81-aessd-e7-a7-bb-e8-a1-8c-e3-81-a7-e3-83-8f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/lepai-lp-2020a-e3-80-80wo.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/macbook-air-e3-81-ae-e3-82-b1-e3-83-bc-e3-82-b9-e3-81-af-e3-81-a8-e3-82-8a-e3-81-82-e3-81-88-e3-81-9a-e4-bb-8a-e3-81-ae-e3-81-a8-e3-81-93-e3-82-8d-e3-81-af-e3-81-93-e3-82-8c-e4-bd-bf-e3-81-a3-e3-81-a6.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/macbook-air-mid-2013-11-inch-e3-82-92-e8-b2-b7-e3-81-84-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/ubuntu-server-e3-81-ae-e3-82-b7-e3-82-b9-e3-83-86-e3-83-a0-e3-83-87-e3-82-a3-e3-82-b9-e3-82-af-e3-82-92-e4-ba-a4-e6-8f-9b-e3-81-97-e3-81-9f-e8-a9-b1.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/windows-8-1-e3-82-92pro-pack-e3-82-92-e4-bd-bf-e3-81-848-1-pro-e3-81-ab-e3-82-a2-e3-83-83-e3-83-97-e3-82-b0-e3-83-ac-e3-83-bc-e3-83-89-e3-81-97-e3-82-88-e3-81-86-e3-81-a8-e3-81-97-e3-81-a6-e5-a4-b1.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/xperia-a--e3-81-8b-e3-82-89-xperia-x1-f--e3-81-ab-e7-a7-bb-e8-a1-8c-e3-81-97-e3-81-9f-e6-99-82-e3-81-ab-e3-82-84-e3-81-a3-e3-81-9f-e3-81-93-e3-81-a8-e3-81-be-e3-81-a8-e3-82-81.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/xperia-z1-f-e3-81-ae-e3-82-b1-e3-83-bc-e3-82-b9-e3-81-82-e3-82-8c-e3-81-93-e3-82-8c.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-80-8cpicasa-and-google-plus-express-e3-80-8d-e3-81-a7google-e3-81-ae-e3-82-a2-e3-83-ab-e3-83-90-e3-83-a0-e3-81-ab-e3-81-82-e3-82-8b-e5-86-99-e7-9c-9f-e3-81-8c-e4-b8-80-e9-83-a8-e3-81-ae-e3-81-bf.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-80-8c-e7-90-86-e7-b3-bb-e3-81-ae-e3-81-9f-e3-82-81-e3-81-ae-e3-82-af-e3-83-a9-e3-82-a6-e3-83-89-e7-9f-a5-e7-9a-84-e7-94-9f-e7-94-a3-e8-a1-93-e2-80-95-e3-83-a1-e3-83-bc-e3-83-ab-e5-87-a6-e7-90-86.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-81-95-e3-81-8f-e3-82-89vps-e3-81-b8-e3-82-b5-e3-83-bc-e3-83-90-e3-83-bc-e7-a7-bb-e8-bb-a2-e3-81-97-e3-81-9f-e6-99-82-e3-81-ae-e8-a8-98-e9-8c-b2.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-81-8a-e4-b8-96-e8-a9-b1-e3-81-ab-e3-81-aa-e3-81-a3-e3-81-a6-e3-81-84-e3-82-8b-e7-97-85-e9-99-a2-e3-81-ae-e3-82-ab-e3-83-ac-e3-83-b3-e3-83-80-e3-83-bc-e3-82-92google-e3-82-ab-e3-83-ac-e3-83-b3.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-81-bf-e3-82-93-e3-81-aa-e3-81-aepython--e7-ac-ac3-e7-89-88-e3-82-92-e8-aa-ad-e3-81-bf-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-83-96-e3-83-ad-e3-82-b0-e3-83-86-e3-83-bc-e3-83-9e-e3-82-92-e5-a4-89-e3-81-88-e3-81-a6-e3-81-bf-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-83-9f-e3-83-a4-e3-83-93-e3-83-83-e3-82-af-e3-82-b9-e3-81-ae-e4-bf-9d-e8-ad-b7-e3-83-95-e3-82-a3-e3-83-ab-e3-83-a0-e3-81-8c-e3-81-a8-e3-81-a6-e3-82-82-e8-89-af-e3-81-84.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-83-ad-e3-82-b8-e3-82-af-e3-83-bc-e3-83-ab-e3-81-ae-e3-83-88-e3-83-a9-e3-83-83-e3-82-af-e3-83-9c-e3-83-bc-e3-83-ab-m570-e3-82-92-e8-b2-b7-e3-81-84-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e4-bb-8a-e5-b9-b4-e3-82-82-e3-81-82-e3-82-8a-e3-81-8c-e3-81-a8-e3-81-86-e3-81-94-e3-81-96-e3-81-84-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e4-bb-8a-e9-80-b1-e8-be-ba-e3-82-8a-e3-81-ab-e8-b2-b7-e3-81-a3-e3-81-9f-e3-82-82-e3-81-ae.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e6-96-b0-e5-b9-b4-e3-81-ae-e6-8c-a8-e6-8b-b6.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e6-96-b0-e5-b9-b4-e5-ba-a6-e3-81-8c-e5-a7-8b-e3-81-be-e3-82-8a-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e7-82-8a-e9-a3-af-e5-99-a8-e3-82-92-e8-b2-b7-e3-81-a3-e3-81-a6-e3-81-bf-e3-81-be-e3-81-97-e3-81-9fjkp-g100--e3-83-95-e3-82-a1-e3-83-bc-e3-82-b9-e3-83-88-e3-82-a4-e3-83-b3-e3-83-97-e3-83-ac.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e8-b1-a1-e5-8d-b0--e3-82-b0-e3-83-aa-e3-83-ab-e9-8d-8b--e9-96-8b-e5-b0-81-e3-83-ac-e3-83-93-e3-83-a5-e3-83-bc-e3-81-8b-e3-82-89-e4-bd-bf-e3-81-a3-e3-81-a6-e3-81-bf-e3-81-9f-e3-81-be-e3-81-a7.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e9-a3-9f-e5-99-a8-e6-b4-97-e3-81-84-e4-b9-be-e7-87-a5-e6-a9-9f-e3-82-92-e8-b3-bc-e5-85-a5-e3-81-97-e3-81-a6-e3-81-bf-e3-81-a6-e3-81-8b-e3-82-89-e3-81-97-e3-81-b0-e3-82-89-e3-81-8f-e7-b5-8c-e3-81-a1.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/1194.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/1287.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/2014-e5-b9-b4-e7-ac-ac-e4-b8-80-e5-9b-9b-e5-8d-8a-e6-9c-9f-e3-81-ae-e7-ba-8f-e3-82-81.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/231.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/amd-890gx-e3-81-aesurroundview-e3-82-92-e6-9c-89-e5-8a-b9-e3-81-ab-e3-81-97-e3-81-a6-e3-82-b0-e3-83-a9-e3-83-95-e3-82-a3-e3-83-83-e3-82-af-e3-83-9c-e3-83-bc-e3-83-89-e3-81-a8-e3-83-88-e3-83-aa.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/creative-aurvana-in-air-2-e3-82-92mmcx-e3-82-b3-e3-83-8d-e3-82-af-e3-82-bf-e3-81-ab-e5-af-be-e5-bf-9c-e3-81-95-e3-81-9b-e3-82-8b.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/creative-aurvana-in-ear-2-e3-82-92-e3-81-97-e3-81-b0-e3-82-89-e3-81-8f-e4-bd-bf-e3-81-a3-e3-81-a6-e3-81-bf-e3-81-a6-e3-81-ae-e3-83-ac-e3-83-93-e3-83-a5-e3-83-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/eeepc-1215b-e3-81-ae-e3-82-bf-e3-83-83-e3-83-81-e3-83-91-e3-83-83-e3-83-89-e3-81-ae-e4-b8-8d-e5-85-b7-e5-90-88-e3-82-92-e7-9b-b4-e3-81-97-e3-81-a6-e3-81-bf-e3-82-8b.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/eeepc-1215b-e3-81-aessd-e6-8f-9b-e8-a3-85-e3-82-92-e3-81-97-e3-81-a6-e3-81-bf-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/eeepc-1215b-e3-82-92-e8-b2-b7-e3-81-a3-e3-81-a6-e3-81-be-e3-81-97-e3-81-9f-e3-83-ac-e3-83-93-e3-83-a5-e3-83-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/es-e3-83-95-e3-82-a1-e3-82-a4-e3-83-ab-e3-82-a8-e3-82-af-e3-82-b9-e3-83-97-e3-83-ad-e3-83-bc-e3-83-a9-e3-83-bc-e3-81-8c-e8-ac-8e-e3-81-aeip-e3-82-a2-e3-83-89-e3-83-ac-e3-82-b9-e3-81-b8-e3-83-9d.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/evernote-e3-83-97-e3-83-ac-e3-83-9f-e3-82-a2-e3-83-a0-e3-83-91-e3-83-83-e3-82-af-e3-81-a7-e3-83-97-e3-83-ac-e3-83-9f-e3-82-a2-e3-83-a0-e3-81-ae-e5-a5-91-e7-b4-84-e3-82-923-e5-b9-b4-e9-96-93-e4-bc-b8.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/excel-e3-81-ae-e3-83-86-e3-83-b3-e3-83-97-e3-83-ac-e3-83-bc-e3-83-88-e3-82-92-e3-83-a2-e3-82-b8-e3-83-a5-e3-83-bc-e3-83-ab-e3-81-a3-e3-81-bd-e3-81-8f-e6-89-b1-e3-81-86-e6-96-b9-e6-b3-95.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/grid-it-e3-82-92-e8-b2-b7-e3-81-a3-e3-81-a6-e3-81-bf-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/i-o-data-iconia-tab-a500-e3-82-b1-e3-83-bc-e3-82-b9-pulc-ita5-e3-82-b7-e3-83-aa-e3-83-bc-e3-82-ba-e3-81-ae-e3-83-ac-e3-83-93-e3-83-a5-e3-83-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/iconia-tab-a500-e9-96-8b-e5-b0-81-e3-83-ac-e3-83-93-e3-83-a5-e3-83-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/ipod-touch-5th-e3-82-92-e8-b3-bc-e5-85-a5-e3-81-97-e3-81-a6-e3-81-97-e3-81-b0-e3-82-89-e3-81-8f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/kvm-e4-b8-8a-e3-81-abwindows-7-e3-82-92-e5-85-a5-e3-82-8c-e3-81-be-e3-81-97-e3-81-9f-ef-bc-88xp-e3-81-8b-e3-82-89-e3-81-ae-e3-82-a2-e3-83-83-e3-83-97-e3-82-b0-e3-83-ac-e3-83-bc-e3-83-89-ef-bc-89.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/macvirtualenv-e3-81-a7trac-e3-83-97-e3-83-a9-e3-82-b0-e3-82-a4-e3-83-b3-e3-82-92-e4-bd-9c-e6-88-90-e3-81-99-e3-82-8b-e7-92-b0-e5-a2-83-e3-82-92-e4-bd-9c-e3-82-8b.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/markdown-e8-a8-98-e6-b3-95-e3-81-ab-e6-85-a3-e3-82-8c-e3-81-9f-e3-81-8f-e3-81-a6wordpress-e3-81-ab-e3-83-97-e3-83-a9-e3-82-b0-e3-82-a4-e3-83-b3-e3-82-92-e5-85-a5-e3-82-8c-e3-82-8b.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/mba-11inch-e3-81-8c-e5-85-a5-e3-82-8a-e3-81-9d-e3-81-86-e3-81-aa-e3-83-af-e3-83-b3-e3-82-b7-e3-83-a7-e3-83-ab-e3-83-80-e3-83-bc-e3-83-90-e3-83-83-e3-82-b0-e3-80-8cb-c-ishutal--e3-82-b1-e3-83-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/mora-e3-81-a7-e9-9f-b3-e6-a5-bd-e3-82-92-e8-b2-b7-e3-81-a3-e3-81-a6-e3-81-bf-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/mw600-e3-82-92-e3-81-97-e3-81-b0-e3-82-89-e3-81-8f-e4-bd-bf-e3-81-a3-e3-81-a6-e3-81-bf-e3-81-9f-e3-83-ac-e3-83-93-e3-83-a5-e3-83-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/nasne-e8-b2-b7-e3-81-84-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/nexus-7-e3-81-ae-e3-82-b1-e3-83-bc-e3-82-b9-e3-81-ab-e3-81-aa-e3-82-8bbluetooth-e3-82-ad-e3-83-bc-e3-83-9c-e3-83-bc-e3-83-89-e3-82-92-e8-b3-bc-e5-85-a5-e3-80-82-e3-82-b9-e3-83-aa-e3-83-bc-e3-83-97.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/nexus-7-e8-b2-b7-e3-81-a3-e3-81-a6-e8-87-aa-e7-82-8a-e3-82-84-e3-82-89-e3-83-86-e3-83-ac-e3-83-93-e3-82-84-e3-82-89.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/openpne-3-8--e3-82-a4-e3-83-b3-e3-82-b9-e3-83-88-e3-83-bc-e3-83-ab-e3-83-a1-e3-83-a2.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/openpneopauthpop3plugin-e3-81-abgoogle-apps-e5-90-91-e3-81-91-e3-81-ae-e3-82-aa-e3-83-97-e3-82-b7-e3-83-a7-e3-83-b3-e3-82-92-e3-81-a4-e3-81-91-e3-82-8b.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/pebble-steel--e3-82-bb-e3-83-83-e3-83-88-e3-82-a2-e3-83-83-e3-83-97-e9-a2-a8-e6-99-af-e3-81-a8-e5-88-a9-e7-94-a8-e3-83-ac-e3-83-93-e3-83-a5-e3-83-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/pebble-steel--e9-96-8b-e5-b0-81-e3-83-ac-e3-83-93-e3-83-a5-e3-83-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/pycon-apac-2013--e4-b8-80-e6-97-a5-e7-9b-ae-e3-81-ab-e5-8f-82-e5-8a-a0-e3-81-97-e3-81-a6-e3-81-8d-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/pyconjp-2014-e3-81-b8-e5-8f-82-e5-8a-a0-e3-81-97-e3-81-a6-e3-81-8d-e3-81-be-e3-81-97-e3-81-9f-ef-bc-81.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/python-2-7-e3-81-ae-e3-82-bf-e3-83-97-e3-83-ab-e3-81-a71-e8-a6-81-e7-b4-a0-e3-82-92-e4-bd-9c-e3-82-8b-e3-81-a8-e3-81-8d-e3-81-af-e8-a6-81-e7-b4-a0-e3-81-ae-e5-be-8c-e3-81-ab-e3-82-ab-e3-83-b3-e3-83-9e.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/python-e3-81-a7-e3-80-81-e8-be-9e-e6-9b-b8-e3-82-92-e3-81-be-e3-81-a8-e3-82-81-e3-81-9f-e3-83-aa-e3-82-b9-e3-83-88-e3-82-92-e3-82-bd-e3-83-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/realforce-e3-82-92-e3-81-97-e3-81-b0-e3-82-89-e3-81-8f-e4-bd-bf-e3-81-a3-e3-81-a6-e3-81-bf-e3-81-a6.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/shizuoka-py-e3-81-b8-e5-8f-82-e5-8a-a0-e3-81-97-e3-81-a6-e6-9d-a5-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/sony-xba-1-e3-82-92-e8-b2-b7-e3-81-84-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/sublime-text-2-e3-81-a7-e7-89-b9-e5-ae-9a-e3-81-ae-e6-8b-a1-e5-bc-b5-e5-ad-90-e3-81-ab-e3-82-b7-e3-83-b3-e3-82-bf-e3-83-83-e3-82-af-e3-82-b9-e3-83-8f-e3-82-a4-e3-83-a9-e3-82-a4-e3-83-88-e3-82-92.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/sugru-e3-82-92-e4-bd-bf-e3-81-a3-e3-81-9f-e3-83-98-e3-83-83-e3-83-89-e3-83-95-e3-82-a9-e3-83-b3-e3-81-aebluetooth-e3-83-ac-e3-82-b7-e3-83-bc-e3-83-90-e3-83-bc-e3-81-ae-e3-83-9e-e3-82-a6-e3-83-b3.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/trac-e3-81-ae-e3-83-98-e3-83-83-e3-83-80-e3-83-ad-e3-82-b4-e3-82-92-e3-83-97-e3-83-ad-e3-82-b8-e3-82-a7-e3-82-af-e3-83-88-e5-90-8d-e3-81-ab-e7-bd-ae-e3-81-8d-e6-8f-9b-e3-81-88-e3-82-8b-e3-80-81tracrep.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/ubuntu-e3-81-ae10-04-e3-81-8b-e3-82-8912-04-e3-81-ab-e3-82-a2-e3-83-83-e3-83-97-e3-82-b0-e3-83-ac-e3-83-bc-e3-83-89-ef-bc-88-e3-81-a8-e8-a8-80-e3-81-86-e3-82-af-e3-83-aa-e3-83-bc-e3-83-b3-e3-82-a4.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/ubuntu-e3-82-92-e3-82-a2-e3-83-83-e3-83-97-e3-83-87-e3-83-bc-e3-83-88-e3-81-97-e3-81-9f-e5-be-8c-e3-81-abnvidia-e3-81-ae-e3-83-89-e3-83-a9-e3-82-a4-e3-83-90-e3-81-8c-e8-aa-ad-e3-81-bf-e8-be-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/virtualenv1-11-6-windows-7-e3-81-a7-e8-a4-87-e6-95-b0-e3-81-aepython-e3-83-90-e3-83-bc-e3-82-b8-e3-83-a7-e3-83-b3-e3-82-92-e4-bd-bf-e3-81-8a-e3-81-86-e3-81-a8-e3-81-99-e3-82-8b-e3-81-a8-e5-a4-b1.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/wordpress-e3-81-a7-e9-81-8b-e7-94-a8-e3-81-97-e3-81-a6-e3-81-84-e3-81-be-e3-81-99.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/wordpress-e3-81-ae-e3-83-80-e3-83-83-e3-82-b7-e3-83-a5-e3-83-9c-e3-83-bc-e3-83-89-e3-81-8b-e3-82-89twitter-e3-83-a9-e3-82-a4-e3-82-af-e3-81-ab-e6-9b-b4-e6-96-b0-e3-81-99-e3-82-8b-e3-82-a6-e3-82-a3.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/wordpress-for-android-e3-81-a7-e6-8a-95-e7-a8-bf-e3-83-86-e3-82-b9-e3-83-88-2.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/wr9500n-e3-80-80-e3-82-a4-e3-83-bc-e3-82-b5-e3-83-8d-e3-83-83-e3-83-88-e3-82-b3-e3-83-b3-e3-83-90-e3-83-bc-e3-82-bf-e3-83-bc-e3-82-bb-e3-83-83-e3-83-88-e3-80-80-e3-83-ac-e3-83-93-e3-83-a5-e3-83-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/xperia-a-e3-81-a7-e3-81-8a-e3-81-95-e3-81-84-e3-81-b5-e3-82-b1-e3-83-bc-e3-82-bf-e3-82-a4-e3-82-92-e4-bd-bf-e3-81-86-e3-81-9f-e3-82-81-e3-81-ab-e3-80-81foma-3g-sim-e3-82-92xi-sim-e3-81-ab-e4-ba-a4.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/xperia-a-e3-81-aeusb-e7-ab-af-e5-ad-90-e3-82-ad-e3-83-a3-e3-83-83-e3-83-97-e3-81-8c-e5-a4-96-e3-82-8c-e3-82-84-e3-81-99-e3-81-8b-e3-81-a3-e3-81-9f-e3-81-ae-e3-81-a7-e4-bf-ae-e7-90-86-e3-81-ab-e5-87-ba.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/xperia-a-e3-82-92-e4-bf-ae-e7-90-86-e3-81-ab-e5-87-ba-e3-81-97-e3-81-a6galaxy-s4-e3-82-92-e5-80-9f-e3-82-8a-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/xperia-a-so-04e-e3-82-92-e8-b2-b7-e3-81-a3-e3-81-9f-e3-81-82-e3-81-a8-e3-81-ae-e5-82-99-e5-bf-98-e9-8c-b2.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/xperia-x10-e3-81-ae-e3-83-aa-e3-82-a2-e3-82-ab-e3-83-90-e3-83-bc-e3-81-ab-e3-82-ab-e3-83-bc-e3-83-9c-e3-83-b3-e8-aa-bf-e3-82-b7-e3-83-bc-e3-83-88-ef-bc-88-e3-83-80-e3-82-a4-e3-83-8e-e3-83-83-e3-82-af.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/zenbook-e3-81-ae-e3-82-bb-e3-83-83-e3-83-88-e3-82-a2-e3-83-83-e3-83-97-e3-83-a1-e3-83-a2.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/zenbook-e3-82-92-e9-96-8b-e5-b0-81-e3-81-97-e3-81-9f-e6-99-82-e3-81-ae-e3-83-a1-e3-83-a2.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-82-ab-e3-83-bc-e3-83-ab-e3-83-87-e3-82-a3-e3-82-b9-e3-82-af-e3-82-ab-e3-83-83-e3-82-bf-e3-83-bc--e3-83-ac-e3-83-93-e3-83-a5-e3-83-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-82-af-e3-83-ad-e3-82-b9-e3-83-90-e3-82-a4-e3-82-af-e3-81-ae-e3-82-bf-e3-82-a4-e3-83-a4-e3-82-92-e4-ba-a4-e6-8f-9b-e3-81-97-e3-81-a6-e3-81-bf-e3-81-be-e3-81-97-e3-81-9f-e4-ba-a4-e6-8f-9b-e4-bd-9c.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-82-b5-e3-83-b3-e3-82-b3-e3-83-bc-e3-81-ae-e3-83-a2-e3-83-8b-e3-82-bf-e3-82-b9-e3-82-bf-e3-83-b3-e3-83-89-e3-82-92-e8-b2-b7-e3-81-a3-e3-81-a6-e3-83-88-e3-83-aa-e3-83-97-e3-83-ab-e3-83-87-e3-82-a3.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-82-b5-e3-83-bc-e3-83-90-e3-83-bc-e3-82-92-e3-81-95-e3-81-8f-e3-82-89vps-e3-81-ab-e7-a7-bb-e8-bb-a2-e3-81-97-e3-81-be-e3-81-97-e3-81-9f-e3-80-82.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-83-86-e3-83-bc-e3-83-9e-e3-82-92-e5-a4-89-e3-81-88-e3-81-a6-e3-81-bf-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e3-83-8b-e3-83-88-e3-83-aa-e3-81-ae-e3-83-9b-e3-83-af-e3-82-a4-e3-83-88-e3-83-9c-e3-83-bc-e3-83-89.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e6-96-b0-e5-b9-b4.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e6-9c-80-e8-bf-91-e3-81-ae-e6-b4-bb-e5-8b-95-e5-b1-a5-e6-ad-b4.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e6-9c-80-e8-bf-91sugru-e3-82-92-e4-bd-bf-e3-81-a3-e3-81-a6-e4-bd-9c-e3-81-a3-e3-81-9f-e3-82-82-e3-81-ae.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/-e9-b7-b9-e3-81-ae-e7-88-aago-e8-a6-8b-e3-81-a6-e3-81-8d-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/acer-iconia-tab-a500-e3-82-92ics-e5-8c-96-e3-81-97-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/brew-update-upgrade-e3-81-97-e3-81-9f-e3-82-89brew-e5-81-b4-e3-81-aepython-e3-82-92-e5-88-a9-e7-94-a8-e3-81-97-e3-81-aa-e3-81-8f-e3-81-aa-e3-81-a3-e3-81-9f-e4-bb-b6.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/chocolatry-e3-81-ae-e3-82-a4-e3-83-b3-e3-82-b9-e3-83-88-e3-83-bc-e3-83-ab-e3-83-91-e3-82-b9-e3-81-8c-e5-a4-89-e3-82-8f-e3-82-8b-e3-82-89-e3-81-97-e3-81-84-e3-81-ae-e3-81-a7-e5-a4-89-e3-81-88-e3-81-a6.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/chrome-e3-81-a7-e4-bd-bf-e3-81-a3-e3-81-a6-e3-81-84-e3-82-8b-e6-8b-a1-e5-bc-b5-e6-a9-9f-e8-83-bd-e4-b8-80-e8-a6-a7.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/e-value-e3-81-ae-e3-82-bd-e3-82-b1-e3-83-83-e3-83-88-e3-83-ac-e3-83-b3-e3-83-81-e3-82-bb-e3-83-83-e3-83-88-e3-81-a8-e3-82-bd-e3-82-b1-e3-83-83-e3-83-88-e3-82-a2-e3-83-80-e3-83-97-e3-82-bf-e3-83-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/ex90-e3-81-ae-e3-83-aa-e3-82-b1-e3-83-bc-e3-83-96-e3-83-ab-e3-81-a4-e3-81-84-e3-81-a7-e3-81-abmmcx-e3-82-b3-e3-83-8d-e3-82-af-e3-82-bf-e3-82-b1-e3-83-bc-e3-83-96-e3-83-ab-e5-af-be-e5-bf-9c-e3-81-ae.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/galaxy-nexus-e3-81-ab-e5-85-a5-e3-82-8c-e3-81-a6-e3-81-82-e3-82-8b-e3-82-bd-e3-83-95-e3-83-88-e3-81-be-e3-81-a8-e3-82-81.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/galaxy-nexus-e3-81-ae-e3-82-ad-e3-83-a3-e3-83-b3-e3-83-9a-e3-83-bc-e3-83-b3-e3-81-ab-e5-bd-93-e9-81-b8-e3-81-97-e3-81-be-e3-81-97-e3-81-9f.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/galaxy-nexus-e3-82-92-e8-b2-b7-e3-81-a3-e3-81-a6-e6-9d-a5-e3-81-be-e3-81-97-e3-81-9f-ef-bc-9f-ef-bc-88-ef-bc-90-e5-86-86-e3-81-a7-e8-b3-bc-e5-85-a5-ef-bc-89.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/hickies-e3-82-92-e4-bd-bf-e3-81-a3-e3-81-a6-e3-81-84-e3-81-be-e3-81-99-e3-80-82-e3-81-99-e3-81-94-e3-81-8f-e8-89-af-e3-81-84-e3-81-a7-e3-81-99-e3-80-82.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/itunes-e3-81-a7-e3-82-a8-e3-82-af-e3-82-b9-e3-83-9d-e3-83-bc-e3-83-88-e3-81-97-e3-81-9f-e3-83-97-e3-83-ac-e3-82-a4-e3-83-aa-e3-82-b9-e3-83-88-e3-82-92mediamonkey-e3-81-a7-e8-aa-ad-e3-81-bf-e8-be-bc.rst",
+		"/Users/hiroshi/hr-sano.net-import/content/mac-os-e3-81-a7-e3-80-81bzr-e3-83-aa-e3-83-9d-e3-82-b8-e3-83-88-e3-83-aa-e3-82-92git-e3-81-b8-e7-a7-bb-e8-a1-8c-e3-81-97-e3-81-a6-e3-81-bf-e3-81-9f-e8-a8-98-e9-8c-b2.rst"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+			"/Users/hiroshi/hr-sano.net-import/content",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"参加枠1 参加者",
+			"Shizuoka",
+			"|  Powered by `Amazon Quick Affiliate\n(JP) <http://creazy.net/amazon_quick_affiliate/>`__",
+			"| \n",
+			"^[¥|]?[ ]?$",
+			"^[¥|]?[ ]?",
+			"^[¥|]?[ ]?$",
+			"^[¥|]?[ ]?",
+			"^(¥|).( ).¥n.",
+			"^(¥|).( ).|n.",
+			"^(¥|).( )./n.",
+			"^(¥|).( )./n",
+			"^(¥|).( ).¥n",
+			"^(¥|).( )¥n",
+			"^(¥|).( )$",
+			"^(¥|).( ).$",
+			"^¥| .$",
+			"^¥|. $",
+			"¥| $",
+			"¥| ",
+			"^¥| $",
+			"| ¥n",
+			"| ",
+			"~¥| $",
+			"~| $",
+			"~|¥ $",
+			"~| $",
+			"| ",
+			"Searching",
+			"|",
+			"status",
+			",/,",
+			"\n",
+			")\n",
+			"<a",
+			"YouTube",
+			"C",
+			"510530003109298176",
+			"href=\"",
+			"ProfileTweet-timestamp js-permalink js-nav js-tooltip",
+			"、",
+			"  ",
+			" ",
+			",",
+			"日",
+			"GB",
+			"使用中",
+			"/,",
+			",/",
+			"\n",
+			"\n\n",
+			"     ",
+			"    ",
+			"   ",
+			"udp_expire_probe",
+			"probe_done",
+			"udp_expire_probe",
+			"CLIF_parse",
+			"<pre>",
+			"[/bash]",
+			"[bash]",
+			"DEBUG",
+			"span",
+			"#A@##",
+			"##A7#",
+			"#A@##",
+			"#A",
+			"\n",
+			"\n\n\n",
+			"\n\n",
+			"\n",
+			"\n\n\n\n",
+			"\n\n\n",
+			"\n\n",
+			"\n\n\n\n\n",
+			"\n\n\n\n",
+			"\n\n\n",
+			"\n\n",
+			"\n\n\n\n",
+			"\n\n\n",
+			"\n\n",
+			"\n",
+			"\n\n\n\n\n",
+			"\n\n\n\n",
+			"\n\n\n",
+			"\n\n",
+			"\n\n\n\n\n",
+			"\n\n\n\n",
+			"\n\n\n",
+			"\n\n",
+			"\n",
+			"config.vm.network ",
+			"\n",
+			"  ",
+			"   ",
+			"    ",
+			"  ",
+			"===Result Print===",
+			" : ",
+			"# ",
+			"\n",
+			" * * ",
+			"ip",
+			"\n",
+			" * * ",
+			"\n",
+			"      ",
+			"     ",
+			"    ",
+			"20001",
+			"23000",
+			"20000",
+			"rstrip",
+			"parse",
+			"measure",
+			"fp",
+			"target_readline[i]",
+			"r\"2014.*\"",
+			"holland2_readline",
+			"\n",
+			"¥n",
+			",",
+			"\n,",
+			",\n",
+			"   *",
+			"code",
+			"<<<$",
+			">>>$"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"|  Powered by `Amazon Quick Affiliate (JP) <http://creazy.net/amazon_quick_affiliate/>`__",
+			"| ",
+			"/",
+			"",
+			",Black,notBold,notItalic,closed,FitPage\n",
+			",Black,notBold,notItalic,closed,FitPage",
+			"/",
+			"</code>",
+			"<code>",
+			"</code>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "exam.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								185
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"is_xml": false,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "this.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
