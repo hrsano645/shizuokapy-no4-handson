@@ -1,9 +1,46 @@
 {
-    "general":
-        {
+    "general":{
             "name":“shizuoka.py #4”,
-            "venue-name":“コミュニティF",
+            "venue_name":“コミュニティF",
             "address":“静岡県富士市吉原2-10",
             "zipcode":“417-0051”,
+            "json-comment":"書けません :-(",
         },
+    "members":[
+            {
+                "name":"hrsano645",
+                "entry_status":"entry",
+                "twitter_id":"hrs_sano645"
+            },
+            {
+                "name":"kzfmix",
+                "entry_status":"entry",
+                },
+            {
+                "name":"bonohu",
+                "entry_status":"entry",
+                },
+            {
+                "name":"oec014",
+                 "entry_status":"entry",
+                },
+            {
+                "name":"aoshiman",
+                "entry_status":"entry",
+            },
+            {
+                "name":"ando_ando_ando",
+                "entry_status":"entry",
+            },
+            {
+                "name":"y_sama",
+                "entry_status":"entry",
+            },
+            {
+                "name":"no85",
+                "entry_status":"entry",
+            {
+                "name":"Satoooooooooooo",
+                "entry_status":"cancceled",
+        ],
 }
