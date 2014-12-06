@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 *.sublime-project
+export_ryukougo.ini
+export_ryukougo.json
+export_ryukougo.yaml

@@ -31,5 +31,14 @@ members:
         name: "no85"
         entry_status: "entry"
     -
+        name: "alice"
+        entry_status: "entry"
+    -
+        name: "tanizawa_yasuhiro"
+        entry_status: "entry"
+    -
+        name: "ringtaro"
+        entry_status: "entry"
+    -
         name: "Satoooooooooooo"
         entry_status: "cancceled"
